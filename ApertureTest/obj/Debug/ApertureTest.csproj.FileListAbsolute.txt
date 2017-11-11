@@ -1,0 +1,6 @@
+c:\users\илья\documents\visual studio 2015\Projects\ApertureTest\ApertureTest\bin\Debug\ApertureTest.exe.config
+c:\users\илья\documents\visual studio 2015\Projects\ApertureTest\ApertureTest\bin\Debug\ApertureTest.exe
+c:\users\илья\documents\visual studio 2015\Projects\ApertureTest\ApertureTest\bin\Debug\ApertureTest.pdb
+c:\users\илья\documents\visual studio 2015\Projects\ApertureTest\ApertureTest\obj\Debug\ApertureTest.csprojResolveAssemblyReference.cache
+c:\users\илья\documents\visual studio 2015\Projects\ApertureTest\ApertureTest\obj\Debug\ApertureTest.exe
+c:\users\илья\documents\visual studio 2015\Projects\ApertureTest\ApertureTest\obj\Debug\ApertureTest.pdb
