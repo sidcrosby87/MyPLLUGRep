@@ -21,5 +21,12 @@ namespace ApertureTest
             this.y = y;
         }
 
+        internal double GetSmallestSide()
+        {
+            if (X < Y)
+                return X;
+
+            return Y;
+        }
     }
 }
