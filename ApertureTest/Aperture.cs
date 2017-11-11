@@ -12,6 +12,7 @@ namespace ApertureTest
         double y;
 
 
+
         internal double X { get { return x; } }
 
         internal double Y { get { return y; } }

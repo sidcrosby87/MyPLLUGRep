@@ -111,6 +111,7 @@ namespace ApertureTest
                         break;
                     }
 
+
                     else if (choise == 2)
                     {
                         Console.Write("\n");
